@@ -1,6 +1,6 @@
 # Jaade
 
-Jaade is an agent workspace for building, operating, and coordinating software work.
+Jaade stands for Just Another Agentic Development Environment.
 
 This repository is the public home for Jaade information. The product source code is not hosted here.
 
